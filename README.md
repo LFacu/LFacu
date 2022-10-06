@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Facundo</h1>
-<img align='center' src="https://blush.design/api/download?shareUri=VXscDgGBh0ohN77B&c=Backdrop_0%7Eb9eee9_Hair_0%7E2c1b18_Skin_0%7Eeac7a8_Top_0%7E60ade6&w=800&h=800&fm=png" width="300">
+<img align='left' src="https://blush.design/api/download?shareUri=VXscDgGBh0ohN77B&c=Backdrop_0%7Eb9eee9_Hair_0%7E2c1b18_Skin_0%7Eeac7a8_Top_0%7E60ade6&w=800&h=800&fm=png" width="300">
+
+
 <p>✨web Developer✨</p>
 <p>I’m a technology lover form Argentina, currently focusing on web development and design. I am always up for learning new languages and frameworks<p>
 
